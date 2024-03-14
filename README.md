@@ -48,9 +48,7 @@ Step -8 Run in browser
 
 ![image](https://github.com/kadambari68/Road-Complaint-Tracker/assets/112871361/adb80eb4-b227-409a-883f-ff489cd15daf)
 
-![image](https://user-images.githubusercontent.com/112871361/231437718-6b88cc5f-d2c7-442d-a942-dbe925f2f2f0.png)
 
-![image](https://user-images.githubusercontent.com/112871361/231438133-5aa8401d-ab97-49ff-ae31-0235fb532eaa.png)
 
  
  
